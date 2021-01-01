@@ -10,10 +10,10 @@ using namespace std;
 */
 
 
-string path = "C:/Windows/xd.dll";
+string path = "C:/Windows/xd.dll"; // path to save dll file
 
-string name = "xd.dll";
+string name = "xd.dll"; // name of dll to save
 
-string link = "example.com/test.dll";
+string link = "http://example.com/test.dll"; // link to download dll
 
-string process = "somefing.exe";
+string process = "somefing.exe"; // process to inject dll
